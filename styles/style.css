@@ -55,7 +55,7 @@ img {
 }
 
 .grupo-menor {
-    width: 340px;
+    width: 340px; /* ou "fit content" para que o conteúdo caiba de forma automática e proporcional. */
 }
 
 .grupo-maior {
