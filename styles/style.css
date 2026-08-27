@@ -61,3 +61,21 @@ img {
 .grupo-maior {
     width: 550px;
 }
+
+.paidetodos {
+    display: flex;
+    height: 960px;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+.roxo {
+    background-color: #e8b6ff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grupo-tres-div-amarela {
+    background-color: yellow;
+}
